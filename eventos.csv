@@ -1,0 +1,5 @@
+id,fecha,entidad,evento,ciudad,latitud,longitud,fuente
+EV01,2026-10-12,TransAndes Pacifico,Planificacion de ruta,Guayaquil,-2.170,-79.910,boletin_01.txt
+EV02,2026-10-15,Ruta Sierra Express,Despacho comercial,Santo Domingo,-0.250,-79.170,boletin_03.txt
+EV03,2026-10-18,Horizonte Logistica,Recepcion extraordinaria,Quito,-0.210,-78.510,boletin_02.txt
+EV04,2026-10-19,TransAndes Pacifico,Revision administrativa,Quito,-0.215,-78.505,boletin_01.txt
